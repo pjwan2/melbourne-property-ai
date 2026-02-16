@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+celery
+redis
+python-dotenv
+# 新增:
+playwright
+beautifulsoup4
+lxml
